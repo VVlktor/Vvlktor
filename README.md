@@ -6,9 +6,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display:inline;">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html,js,css,php,bootstrap,mysql,arduino,firebase,ts,angular" />
+  <img src="https://skillicons.dev/icons?i=arduino,bots,git,github,mysql,sqlite,html,bootstrap,css,php"/>
 </div>
 
 <h3>Github info:</h3>
